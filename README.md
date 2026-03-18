@@ -1,4 +1,4 @@
-# Allergen Detector 🍽️
+# Allergen Detector 
 
 ## Overview
 
