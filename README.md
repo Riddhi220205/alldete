@@ -1,4 +1,4 @@
-# Allergen Detector 🍽️
+# Allergen Detector 
 
 ## Overview
 
@@ -37,3 +37,4 @@ models/
 python scripts/predict_food_item.py
 
 Dataset: Available at https://drive.google.com/file/d/1xl78yeZwZW3N3rhuvW7WhuuA7lnKLvam/view?usp=drive_link
+
